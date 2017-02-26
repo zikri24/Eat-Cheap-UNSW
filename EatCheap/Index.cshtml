@@ -1,0 +1,102 @@
+﻿@model IEnumerable<Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h2>Menu</h2>
+<div class="row">
+    <div class="col-md-8">
+        <table class="table table-striped" style=" border-radius:5px;">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.name)
+                </th>
+                <th style="width: 20%">
+                    @Html.DisplayNameFor(model => model.description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.price)
+                </th>
+                <th style="color: red">
+                    @Html.DisplayNameFor(model => model.ourPrice)
+                </th>
+                <th>    </th>
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <a href="@Url.Content(@item.photo)" target="_blank">
+                            <img src="@Url.Content(@item.photo)" height="80" width="140" />
+                        </a>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.name)<br />
+
+                        @Html.DisplayFor(modelItem => item.type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.price)
+                    </td>
+                    <td style="color: red">
+                        @Html.DisplayFor(modelItem => item.ourPrice)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Add to Order", "Index", "Order", new { id = item.id, businessId = item.businessId }, new { @class = "btn btn-sm btn-primary" })
+                        @Html.ActionLink("Reviews", "Index", "ProductReview", new { productId = item.id, businessId = item.businessId }, new { @class = "btn btn-sm btn-primary" })
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+        <div>
+            @Html.ActionLink("Back to Places", "Index", "Home", null, new { @class = "btn btn-sm btn-primary" })
+        </div>
+    </div>
+
+    <div class="col-md-4" style="margin-top: 0px">
+
+        @if (Session["cart"] != null)
+        {
+            <h2 style="margin-top: 0px">Your Order</h2>
+            @Html.Partial("_Cart")
+            <div style="margin-top:50px">
+                <table class="table table-striped" style=" border-radius:5px;">
+                    <tr>
+                        <th style="width:158px; height:26px;">
+                           
+                            @Html.ActionLink("Place Order", "Order", "Order", null, new { @class ="PayPal"  })
+                        </th>
+                        <th style="text-align: right">
+                            @Html.ActionLink("Cancel Order", "Cancel", "Order", null, new { @class = "btn btn-sm btn-danger" })
+                        </th>
+                    </tr>
+                </table>
+            </div>
+
+        }
+    </div>
+</div>
+
+
+
+
+<div class="col-md-2">
+
+
+
+</div>
+
+
+
+
+
+

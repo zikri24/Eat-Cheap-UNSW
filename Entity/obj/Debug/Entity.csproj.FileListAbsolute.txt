@@ -1,0 +1,29 @@
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\Entity.dll.config
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\Entity.dll
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Zikri\Desktop\EatCheap\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zikri\Desktop\EatCheap\Entity\obj\Debug\Entity.dll
+C:\Users\Zikri\Desktop\EatCheap\Entity\obj\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\Entity.dll.config
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\Entity.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\obj\Debug\Entity.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Entity\obj\Debug\Entity.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\Entity.dll.config
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\Entity.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\Entity.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.xml
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\obj\Debug\Entity.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Entity\obj\Debug\Entity.pdb

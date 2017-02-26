@@ -1,0 +1,67 @@
+﻿
+
+@model IEnumerable<Entity.Business>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2></h2>
+
+
+<table class="table table-hover table-striped" style="width:70%; padding-right:10px; margin: 0 auto">
+   @* <tr>
+    <th >
+        @Html.DisplayNameFor(model => model.name)
+    </th>
+    <th >
+        @Html.DisplayNameFor(model => model.BusinesTtype)
+    </th>
+
+    @*<th>
+            @Html.DisplayNameFor(model => model.phone)
+        </th>
+
+        <th >
+            @Html.DisplayNameFor(model => model.foodCourt)
+        </th>
+       <th>
+                @Html.DisplayNameFor(model => model.building)
+            </th>
+        <th ></th>
+    </tr>*@
+
+    @foreach (var item in Model)
+    {
+        <tr>
+           <td>
+               <a href="@Url.Content(@item.photo)" target="_blank">
+                    <img src="@Url.Content(@item.photo)" height="80" width="140" />
+               </a>
+            <td>
+                @Html.HiddenFor(modelItem => item.id)
+                @Html.DisplayFor(modelItem => item.name)<br />
+                @Html.DisplayFor(modelItem => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BusinesTtype)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.foodCourt)
+            </td>
+            @* <th>
+                    @Html.DisplayFor(modelItem => item.building)
+                </th>*@
+            <td>
+                @Html.ActionLink("Reviews", "Index", "BusinessReview", new { businessId = item.id }, new { @class = "btn btn-sm btn-primary" })
+                @Html.ActionLink("Menu", "Index", "UserProduct", new { id = item.id }, new { @class = "btn btn-sm btn-primary" })
+
+            </td>
+        </tr>
+    }
+   
+</table>
+
+
+

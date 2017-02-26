@@ -1,0 +1,61 @@
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\DAL.dll
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\DAL.pdb
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\Entity.dll
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zikri\Desktop\EatCheap\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.Migrations.OrderItemModel.resources
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.Migrations.NewBusiness.resources
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.Migrations.newModel.resources
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.Migrations.addPrice.resources
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.Migrations.dropdown.resources
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.Migrations.description.resources
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.dll
+C:\Users\Zikri\Desktop\EatCheap\DAL\obj\Debug\DAL.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\DAL.dll.config
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\DAL.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\DAL.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\Entity.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.OrderItemModel.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.NewBusiness.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.newModel.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.addPrice.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.dropdown.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.description.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.photo.resources
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.productPhoto.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\DAL.dll.config
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\DAL.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\DAL.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\Entity.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\Entity.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.xml
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.OrderItemModel.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.NewBusiness.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.newModel.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.addPrice.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.dropdown.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.description.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.photo.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.Migrations.productPhoto.resources
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,42 @@
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\Repository.dll.config
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\Repository.dll
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\Repository.pdb
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\DAL.dll
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\Entity.dll
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\DAL.pdb
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Zikri\Desktop\EatCheap\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zikri\Desktop\EatCheap\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Zikri\Desktop\EatCheap\Repository\obj\Debug\Repository.dll
+C:\Users\Zikri\Desktop\EatCheap\Repository\obj\Debug\Repository.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Repository.dll.config
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Repository.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Repository.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\DAL.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Entity.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\DAL.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Entity.pdb
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\obj\Debug\Repository.dll
+C:\Users\Zikri\Desktop\INFS3611\Eat Cheap Folder\EatCheap\Repository\obj\Debug\Repository.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Repository.dll.config
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Repository.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Repository.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\DAL.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Entity.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\DAL.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\Entity.pdb
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.xml
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\obj\Debug\Repository.dll
+D:\UNSW\UNSW 2015 S1\INFS3611\Eat Cheap Folder\EatCheap\Repository\obj\Debug\Repository.pdb

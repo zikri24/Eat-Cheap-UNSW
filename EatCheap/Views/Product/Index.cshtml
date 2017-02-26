@@ -1,0 +1,88 @@
+﻿ @model IEnumerable<Entity.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Menu</h2>
+
+
+<table class="table table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th style="width:20%">
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th >
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ourPrice)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            
+            <td>
+                <a href="@Url.Content(@item.photo)" target="_blank">
+                    <img src="@Url.Content(@item.photo)" height="80" width="140" />
+                </a>
+            </td>
+<td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ourPrice)
+            </td>
+            <td>
+
+                <div class="btn-group">
+                    <a class="btn actionLink dropdown-toggle btn-sm btn-primary" data-toggle="dropdown" href="#"><i class="icon-user icon-white"></i>Actions</a>
+                    <a class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.id }
+                        , new { @class = "btn-link" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Details", "Details", new { id = item.id }
+                                , new { @class = "btn-link" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Delete", "Delete", new { id = item.id }
+                                , new { @class = "btn-link" })
+                        </li>
+
+                    </ul>
+                </div>
+                @*
+
+                    @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.id })
+                *@
+            </td>
+        </tr>
+    }
+
+</table>
+<p>
+    @Html.ActionLink("Add a New Item", "Create", new { businessId = @ViewBag.BusinessId }, new { @class = "btn btn-sm btn-primary" })
+</p>

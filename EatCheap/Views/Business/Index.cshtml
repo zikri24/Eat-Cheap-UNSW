@@ -1,0 +1,139 @@
+﻿@model IEnumerable<Entity.Business>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Places you Manage</h2>
+
+
+<table class="table table-striped" style="width: 75%; margin: 0 auto">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        @*<th>
+                    @Html.DisplayNameFor(model => model.businesTtype)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.streetNumber)
+                </th>
+               <th>
+                    @Html.DisplayNameFor(model => model.city)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.state)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.abn)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.phone)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.mobile)
+                </th>
+               <th>
+                @Html.DisplayNameFor(model => model.foodCourt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.building)
+            </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.foodCourt)
+        </th>
+        <th>
+
+        </th>
+        <th>
+
+        </th>
+        
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)  <br>
+                @*</td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.businesTtype)<br>
+                @*</td>
+
+            <td>
+                    @Html.DisplayFor(modelItem => item.streetNumber)
+                </td>
+               <td>
+                @Html.DisplayFor(modelItem => item.city)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.state)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.abn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.foodCourt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.building)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.foodCourt)
+            </td>
+
+            <td>
+                <div class="float-right">
+                    @*
+                        @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.id })
+                    *@
+                    <div class="btn-group">
+                        <a class="btn actionLink dropdown-toggle btn btn-sm btn-primary" data-toggle="dropdown" href="#"><i class="icon-user icon-white"></i>Options</a>
+                        <a class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                @Html.ActionLink("Update Details", "Edit", new { id = item.id }
+                        , new { @class = "btn-link" })
+                            </li>
+                            <li>
+                                @Html.ActionLink("Business Details", "Details", new { id = item.id }
+                                , new { @class = "btn-link" })
+                            </li>
+                            <li>
+                                @Html.ActionLink("Remove Business", "Delete", new { id = item.id }
+                                , new { @class = "btn-link" })
+                            </li>
+
+                        </ul>
+                    </div>
+                    
+                    @Html.ActionLink("View Menu", "Index", "Product",
+                                new { id = item.id }
+                      , new { @class = "btn btn-sm btn-primary" })
+
+                </div>
+            </td>
+
+        </tr>
+    }
+
+</table>
+<p>
+    @Html.ActionLink("Register More Places", "Create", "Business", null, new { @class = "btn btn-primary" } )
+</p>
